@@ -9,7 +9,7 @@
 #define MAVLINK_PRIMARY_XML_IDX 1
 
 #ifndef MAVLINK_STX
-#define MAVLINK_STX 253
+#define MAVLINK_STX 230
 #endif
 
 #ifndef MAVLINK_ENDIAN
